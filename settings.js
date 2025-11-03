@@ -10,7 +10,7 @@ PREFIX: process.env.PREFIX || ".",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94779721338",
 DEV: process.env.DEV || "94779721338",
-LANG: process.env.LANG || "SI", // EN | SI
+LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
